@@ -22,7 +22,7 @@ source-code: https://github.com/CollectionBuilder/dhsi-demo-2022
 # title of site appears in banner
 title: DHSI 2022 Demo Collection
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Psychiana was a huge religion
+tagline: Hands On With CollectionBuilder
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "This site demonstrates CollectionBuilder-GH, a framework for creating digital collections with minimal infrastructure designed for teaching digital library skills."
