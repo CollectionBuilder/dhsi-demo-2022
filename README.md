@@ -1,3 +1,9 @@
+# DHSI Demo 2022
+
+This is a demo site for "Creating Digital Collections with Minimal Infrastructure: Hands On With CollectionBuilder for Teaching and Exhibits", DHSI 2022.
+
+----------
+
 # collectionbuilder-gh
 
 A project to generate a free and simple digital collection site using [GitHub Pages](https://pages.github.com/) given:
