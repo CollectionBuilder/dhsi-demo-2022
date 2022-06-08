@@ -3,7 +3,7 @@ title: About
 layout: about
 permalink: /about.html
 # include CollectionBuilder info at bottom
-credits: true
+# credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
@@ -14,14 +14,33 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+This is a **new paragraph**.
+This is part of the same *paragraph*.
+because there is not a blank line!
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+{% include feature/image.html objectid="psychiana023;psychiana027;psychiana024" %}
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+This will be a hyper link: [collectionbuilder](https://collectionbuilder.github.io/).
 
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
+{% include feature/video.html objectid="psychiana001" width="50" %}
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+This is a new paragraph.
+
+### Header Three
+
+This is a new paragraph.
+This is part of the same paragraph.
+because there is not a blank line!
+
+This is a new paragraph.
+
+- one. adfjdsaf.
+- another item.
+- dogs.
+- cats.
+
+1. cats
+1. dogs
+3. muffins
+10. other things
+
